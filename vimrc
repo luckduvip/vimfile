@@ -12,7 +12,6 @@ Plug 'honza/vim-snippets'
 Plug 'Shougo/vimproc.vim', {'do' : 'make'}
 Plug 'Raimondi/delimitMate'  "{()}补全
 Plug 'posva/vim-vue'
-Plug 'Valloric/YouCompleteMe'
 Plug 'ternjs/tern_for_vim'
 Plug 'brooth/far.vim'
 Plug 'heavenshell/vim-jsdoc'
